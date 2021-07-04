@@ -2,7 +2,7 @@
 
 ## Description
 
-the calender (work-day-scheduler) application allows the user to save events for each hour of the working day. the calender also contains colour coded timeblocks to indicate whether an event has ocuured in the past , present or future.and allows the user to save their schedule to their local storage.the app runs in browser and features dynamically updated Html and css both powered by jquery.
+The calender (work-day-scheduler) application allows the user to save events for each hour of the working day. the calender also contains colour coded timeblocks to indicate whether an event has ocuured in the past , present or future.and allows the user to save their schedule to their local storage.the app runs in browser and features dynamically updated Html and css both powered by jquery.
 
 ## Task Objective
 
@@ -25,6 +25,7 @@ Index.html (Relative path:index.html)
 style.css (Relative path:Assets/style.css)
 script.js (Relative path:Assets/Assets/script.js)
 README.md(Relative path:README.md)
+settings.json(relative path:settings.json)
 ## Application live link
 https://osir-is.github.io/work-day-scheduler/
 ## Screenshots
