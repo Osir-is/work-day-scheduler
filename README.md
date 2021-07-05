@@ -30,7 +30,7 @@ settings.json(relative path:settings.json)
 https://osir-is.github.io/work-day-scheduler/
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/78626961/124394913-68506a00-dcf9-11eb-8651-edb5e4317f50.png)
-
+![image](https://user-images.githubusercontent.com/78626961/124488398-b459e800-dda7-11eb-9c82-89a92948adb4.png)
 ## Tools
 
 Github ,
